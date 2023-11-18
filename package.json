@@ -1,0 +1,6 @@
+{
+  "name": "moon-ts-paths-bug",
+  "engines": {
+    "node": "20.0.0"
+  }
+}
